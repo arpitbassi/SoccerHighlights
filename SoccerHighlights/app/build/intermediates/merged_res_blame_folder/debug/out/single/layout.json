@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.dirzaaulia.footballclips.app-mergeDebugResources-2:/layout/activity_main.xml",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-mergeDebugResources-2:/layout/shimmer_item_clips.xml",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/layout/shimmer_item_clips.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-mergeDebugResources-2:/layout/view_common_error.xml",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/layout/view_common_error.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-mergeDebugResources-2:/layout/fragment_viewer.xml",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/layout/fragment_viewer.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-mergeDebugResources-2:/layout/item_clips.xml",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/layout/item_clips.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-mergeDebugResources-2:/layout/view_toolbar.xml",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/layout/view_toolbar.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-mergeDebugResources-2:/layout/fragment_home.xml",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/layout/fragment_home.xml"
+    }
+]

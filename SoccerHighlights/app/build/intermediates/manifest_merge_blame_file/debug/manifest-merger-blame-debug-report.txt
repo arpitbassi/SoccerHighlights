@@ -1,0 +1,174 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dirzaaulia.footballclips"
+4    android:versionCode="13"
+5    android:versionName="2.3" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:6:22-64
+12
+13    <queries>
+13-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:7:5-13:15
+14        <intent>
+14-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:8:9-12:18
+15            <action android:name="android.intent.action.CREATE_DOCUMENT" />
+15-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:9:13-76
+15-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:9:21-73
+16
+17            <data android:mimeType="*/*" />
+17-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:11:13-44
+17-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:11:19-41
+18        </intent>
+19    </queries>
+20
+21    <application
+21-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:8:5-29:19
+22        android:name="com.dirzaaulia.footballclips.App"
+22-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:9:9-28
+23        android:allowBackup="true"
+23-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:10:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.8.0] C:\Users\user\.gradle\caches\transforms-3\edbff16297048371621dc4cfd134b9bc\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:extractNativeLibs="false"
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:11:9-43
+28        android:label="@string/app_name"
+28-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:12:9-41
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:13:9-54
+30        android:supportsRtl="true"
+30-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:14:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.FootballClips.SplashScreen"
+32-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:15:9-64
+33        android:usesCleartextTraffic="true" >
+33-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:16:9-44
+34        <activity
+34-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:17:9-28:20
+35            android:name="com.dirzaaulia.footballclips.ui.main.MainActivity"
+35-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:18:13-49
+36            android:exported="true"
+36-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:19:13-36
+37            android:screenOrientation="portrait"
+37-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:20:13-49
+38            android:windowSoftInputMode="adjustResize" >
+38-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:21:13-55
+39            <intent-filter>
+39-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:23:13-27:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:24:17-69
+40-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:24:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:26:17-77
+42-->C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\AndroidManifest.xml:26:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:16:9-21:52
+46            android:name="com.chuckerteam.chucker.internal.ui.MainActivity"
+46-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:17:13-76
+47            android:label="@string/chucker_name"
+47-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:18:13-49
+48            android:launchMode="singleTask"
+48-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:19:13-44
+49            android:taskAffinity="com.chuckerteam.chucker.task"
+49-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:20:13-64
+50            android:theme="@style/Chucker.Theme" />
+50-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:21:13-49
+51        <activity
+51-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:22:9-25:52
+52            android:name="com.chuckerteam.chucker.internal.ui.transaction.TransactionActivity"
+52-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:23:13-95
+53            android:parentActivityName="com.chuckerteam.chucker.internal.ui.MainActivity"
+53-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:24:13-90
+54            android:theme="@style/Chucker.Theme" />
+54-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:25:13-49
+55        <activity
+55-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:26:9-29:52
+56            android:name="com.chuckerteam.chucker.internal.ui.throwable.ThrowableActivity"
+56-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:27:13-91
+57            android:parentActivityName="com.chuckerteam.chucker.internal.ui.MainActivity"
+57-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:28:13-90
+58            android:theme="@style/Chucker.Theme" />
+58-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:29:13-49
+59
+60        <service
+60-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:31:9-33:40
+61            android:name="com.chuckerteam.chucker.internal.support.ClearDatabaseService"
+61-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:32:13-89
+62            android:exported="false" />
+62-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:33:13-37
+63
+64        <provider
+64-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:35:9-43:20
+65            android:name="com.chuckerteam.chucker.internal.support.ChuckerFileProvider"
+65-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:36:13-88
+66            android:authorities="com.dirzaaulia.footballclips.com.chuckerteam.chucker.provider"
+66-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:37:13-84
+67            android:exported="false"
+67-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:38:13-37
+68            android:grantUriPermissions="true" >
+68-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:39:13-47
+69            <meta-data
+69-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:40:13-42:66
+70                android:name="android.support.FILE_PROVIDER_PATHS"
+70-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:41:17-67
+71                android:resource="@xml/chucker_provider_paths" />
+71-->[com.github.chuckerteam.chucker:library:3.5.2] C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\AndroidManifest.xml:42:17-63
+72        </provider>
+73
+74        <uses-library
+74-->[androidx.window:window:1.0.0] C:\Users\user\.gradle\caches\transforms-3\47258e409c0f9875ec90765de98ba29e\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+75            android:name="androidx.window.extensions"
+75-->[androidx.window:window:1.0.0] C:\Users\user\.gradle\caches\transforms-3\47258e409c0f9875ec90765de98ba29e\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+76            android:required="false" />
+76-->[androidx.window:window:1.0.0] C:\Users\user\.gradle\caches\transforms-3\47258e409c0f9875ec90765de98ba29e\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+77        <uses-library
+77-->[androidx.window:window:1.0.0] C:\Users\user\.gradle\caches\transforms-3\47258e409c0f9875ec90765de98ba29e\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+78            android:name="androidx.window.sidecar"
+78-->[androidx.window:window:1.0.0] C:\Users\user\.gradle\caches\transforms-3\47258e409c0f9875ec90765de98ba29e\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+79            android:required="false" />
+79-->[androidx.window:window:1.0.0] C:\Users\user\.gradle\caches\transforms-3\47258e409c0f9875ec90765de98ba29e\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+80
+81        <provider
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\.gradle\caches\transforms-3\f009680aacca1b3ca0b5df0218e3325c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+82            android:name="androidx.startup.InitializationProvider"
+82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\.gradle\caches\transforms-3\f009680aacca1b3ca0b5df0218e3325c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+83            android:authorities="com.dirzaaulia.footballclips.androidx-startup"
+83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\.gradle\caches\transforms-3\f009680aacca1b3ca0b5df0218e3325c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+84            android:exported="false" >
+84-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\.gradle\caches\transforms-3\f009680aacca1b3ca0b5df0218e3325c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+85            <meta-data
+85-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\.gradle\caches\transforms-3\f009680aacca1b3ca0b5df0218e3325c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+86                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+86-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\.gradle\caches\transforms-3\f009680aacca1b3ca0b5df0218e3325c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+87                android:value="androidx.startup" />
+87-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\.gradle\caches\transforms-3\f009680aacca1b3ca0b5df0218e3325c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+88            <meta-data
+88-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\.gradle\caches\transforms-3\fee1b69a670eb07822a0bcbbbdba8d7f\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+89                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+89-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\.gradle\caches\transforms-3\fee1b69a670eb07822a0bcbbbdba8d7f\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+90                android:value="androidx.startup" />
+90-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\.gradle\caches\transforms-3\fee1b69a670eb07822a0bcbbbdba8d7f\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+91        </provider>
+92
+93        <service
+93-->[androidx.room:room-runtime:2.3.0] C:\Users\user\.gradle\caches\transforms-3\094648a0352eb1729d5dd2ebf620662b\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+94            android:name="androidx.room.MultiInstanceInvalidationService"
+94-->[androidx.room:room-runtime:2.3.0] C:\Users\user\.gradle\caches\transforms-3\094648a0352eb1729d5dd2ebf620662b\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+95            android:directBootAware="true"
+95-->[androidx.room:room-runtime:2.3.0] C:\Users\user\.gradle\caches\transforms-3\094648a0352eb1729d5dd2ebf620662b\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+96            android:exported="false" />
+96-->[androidx.room:room-runtime:2.3.0] C:\Users\user\.gradle\caches\transforms-3\094648a0352eb1729d5dd2ebf620662b\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+97    </application>
+98
+99</manifest>

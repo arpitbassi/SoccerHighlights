@@ -1,0 +1,54 @@
+com.dirzaaulia.footballclips.app-mergeDebugResources-0 C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.dirzaaulia.footballclips.app-mergeDebugResources-1 C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.dirzaaulia.footballclips.app-merged_res-2 C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\build\intermediates\merged_res\debug
+com.dirzaaulia.footballclips.app-debug-3 C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\debug\res
+com.dirzaaulia.footballclips.app-main-4 C:\PROGRAMMING\Soccer Highlights\Soccer Highlights\app\src\main\res
+com.dirzaaulia.footballclips.app-lifecycle-livedata-core-2.5.1-5 C:\Users\user\.gradle\caches\transforms-3\00c9d9b8fc56575ba2fa1254e3faa54f\transformed\lifecycle-livedata-core-2.5.1\res
+com.dirzaaulia.footballclips.app-room-runtime-2.3.0-6 C:\Users\user\.gradle\caches\transforms-3\094648a0352eb1729d5dd2ebf620662b\transformed\room-runtime-2.3.0\res
+com.dirzaaulia.footballclips.app-material-1.7.0-7 C:\Users\user\.gradle\caches\transforms-3\179935784e0b3320e9808568c8fac113\transformed\material-1.7.0\res
+com.dirzaaulia.footballclips.app-jetified-lifecycle-viewmodel-ktx-2.5.1-8 C:\Users\user\.gradle\caches\transforms-3\17df6efcc9696c8dfc463b7e2e0d57ea\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\res
+com.dirzaaulia.footballclips.app-navigation-runtime-2.5.1-9 C:\Users\user\.gradle\caches\transforms-3\18bccc57580d458157c033b8b348a5a0\transformed\navigation-runtime-2.5.1\res
+com.dirzaaulia.footballclips.app-recyclerview-1.2.0-10 C:\Users\user\.gradle\caches\transforms-3\2160f257af3e7d5ae6fe2d395236702a\transformed\recyclerview-1.2.0\res
+com.dirzaaulia.footballclips.app-jetified-core-splashscreen-1.0.0-11 C:\Users\user\.gradle\caches\transforms-3\2878ddae8603cd82e16dd07eeb830e8d\transformed\jetified-core-splashscreen-1.0.0\res
+com.dirzaaulia.footballclips.app-drawerlayout-1.1.1-12 C:\Users\user\.gradle\caches\transforms-3\2976aa915e237662b97ce9ccd3881fd2\transformed\drawerlayout-1.1.1\res
+com.dirzaaulia.footballclips.app-cardview-1.0.0-13 C:\Users\user\.gradle\caches\transforms-3\2bbdaac8c5aba56d8bebc0370909f2ab\transformed\cardview-1.0.0\res
+com.dirzaaulia.footballclips.app-jetified-coil-base-2.1.0-14 C:\Users\user\.gradle\caches\transforms-3\2c53550ea31cee2afdb1b196713f6983\transformed\jetified-coil-base-2.1.0\res
+com.dirzaaulia.footballclips.app-navigation-ui-ktx-2.5.1-15 C:\Users\user\.gradle\caches\transforms-3\30a558bc0aca9070b321e512d965e868\transformed\navigation-ui-ktx-2.5.1\res
+com.dirzaaulia.footballclips.app-swiperefreshlayout-1.1.0-16 C:\Users\user\.gradle\caches\transforms-3\372bdefc93e0451ca56c0df8b402e7ae\transformed\swiperefreshlayout-1.1.0\res
+com.dirzaaulia.footballclips.app-jetified-annotation-experimental-1.1.0-17 C:\Users\user\.gradle\caches\transforms-3\38984537339fc257257533a7f7343eb0\transformed\jetified-annotation-experimental-1.1.0\res
+com.dirzaaulia.footballclips.app-jetified-savedstate-1.2.0-18 C:\Users\user\.gradle\caches\transforms-3\3a5a0c9e614aeb493568f4252853c99a\transformed\jetified-savedstate-1.2.0\res
+com.dirzaaulia.footballclips.app-navigation-fragment-2.5.1-19 C:\Users\user\.gradle\caches\transforms-3\3e11b4a35d77c3cb3d8f9cdb255af1f6\transformed\navigation-fragment-2.5.1\res
+com.dirzaaulia.footballclips.app-fragment-1.5.2-20 C:\Users\user\.gradle\caches\transforms-3\451b8544b0e724dfd20ddcdefbc112d6\transformed\fragment-1.5.2\res
+com.dirzaaulia.footballclips.app-jetified-window-1.0.0-21 C:\Users\user\.gradle\caches\transforms-3\47258e409c0f9875ec90765de98ba29e\transformed\jetified-window-1.0.0\res
+com.dirzaaulia.footballclips.app-jetified-lifecycle-livedata-core-ktx-2.5.1-22 C:\Users\user\.gradle\caches\transforms-3\51360ca63cfae53b703797c63e59fb87\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\res
+com.dirzaaulia.footballclips.app-jetified-fragment-ktx-1.5.2-23 C:\Users\user\.gradle\caches\transforms-3\52396c593eef5ffdedccffce0aac3474\transformed\jetified-fragment-ktx-1.5.2\res
+com.dirzaaulia.footballclips.app-jetified-activity-1.5.1-24 C:\Users\user\.gradle\caches\transforms-3\544fccc3f823176fd32940d613a4635a\transformed\jetified-activity-1.5.1\res
+com.dirzaaulia.footballclips.app-jetified-core-ktx-1.8.0-25 C:\Users\user\.gradle\caches\transforms-3\626f802d698dca813747f4b7ca2d307a\transformed\jetified-core-ktx-1.8.0\res
+com.dirzaaulia.footballclips.app-navigation-common-ktx-2.5.1-26 C:\Users\user\.gradle\caches\transforms-3\6e01110b56b389dea5f3377997b1bd24\transformed\navigation-common-ktx-2.5.1\res
+com.dirzaaulia.footballclips.app-jetified-lifecycle-runtime-ktx-2.5.1-27 C:\Users\user\.gradle\caches\transforms-3\727cb7ea08dc0725202fdec4d65fe9d7\transformed\jetified-lifecycle-runtime-ktx-2.5.1\res
+com.dirzaaulia.footballclips.app-jetified-library-3.5.2-28 C:\Users\user\.gradle\caches\transforms-3\7311c7d4adb4dd11e53a6b43f745015e\transformed\jetified-library-3.5.2\res
+com.dirzaaulia.footballclips.app-navigation-fragment-ktx-2.5.1-29 C:\Users\user\.gradle\caches\transforms-3\7f469ad346f80c9444eaf7f7196bf028\transformed\navigation-fragment-ktx-2.5.1\res
+com.dirzaaulia.footballclips.app-appcompat-1.5.0-30 C:\Users\user\.gradle\caches\transforms-3\8474dc17e2c3a6374f27cb4e97e23142\transformed\appcompat-1.5.0\res
+com.dirzaaulia.footballclips.app-jetified-shimmer-0.5.0-31 C:\Users\user\.gradle\caches\transforms-3\881ee93185bb0bf2958838f4a52bf8cd\transformed\jetified-shimmer-0.5.0\res
+com.dirzaaulia.footballclips.app-lifecycle-runtime-2.5.1-32 C:\Users\user\.gradle\caches\transforms-3\883945f418f7f217f8ad7818b8516fbb\transformed\lifecycle-runtime-2.5.1\res
+com.dirzaaulia.footballclips.app-slidingpanelayout-1.2.0-33 C:\Users\user\.gradle\caches\transforms-3\8d633c1c2f3ff89852809d967e50f084\transformed\slidingpanelayout-1.2.0\res
+com.dirzaaulia.footballclips.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-34 C:\Users\user\.gradle\caches\transforms-3\92fc4028334f38dc2f5380025d8bdc58\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.dirzaaulia.footballclips.app-jetified-appcompat-resources-1.5.0-35 C:\Users\user\.gradle\caches\transforms-3\9443fc99c94c98b6dff7147c11d3b8a1\transformed\jetified-appcompat-resources-1.5.0\res
+com.dirzaaulia.footballclips.app-jetified-emoji2-views-helper-1.2.0-36 C:\Users\user\.gradle\caches\transforms-3\9e5df6a368ee0cf26d3500f263deafa5\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.dirzaaulia.footballclips.app-constraintlayout-2.0.4-37 C:\Users\user\.gradle\caches\transforms-3\a0129b219b2e91364109db4d98b9c129\transformed\constraintlayout-2.0.4\res
+com.dirzaaulia.footballclips.app-navigation-ui-2.5.1-38 C:\Users\user\.gradle\caches\transforms-3\a27c58ff62a07efab12018bb17b7df91\transformed\navigation-ui-2.5.1\res
+com.dirzaaulia.footballclips.app-coordinatorlayout-1.1.0-39 C:\Users\user\.gradle\caches\transforms-3\a4f8a038b35d4764df5e12c66e095cbf\transformed\coordinatorlayout-1.1.0\res
+com.dirzaaulia.footballclips.app-jetified-savedstate-ktx-1.2.0-40 C:\Users\user\.gradle\caches\transforms-3\a84ba3065ba9a6bfcb96b38df6ab8d90\transformed\jetified-savedstate-ktx-1.2.0\res
+com.dirzaaulia.footballclips.app-lifecycle-viewmodel-2.5.1-41 C:\Users\user\.gradle\caches\transforms-3\ad81a3a30d70b0d9a950100be3decf0d\transformed\lifecycle-viewmodel-2.5.1\res
+com.dirzaaulia.footballclips.app-jetified-startup-runtime-1.1.1-42 C:\Users\user\.gradle\caches\transforms-3\b1897e0a6e21c5ff74220e413f86f62e\transformed\jetified-startup-runtime-1.1.1\res
+com.dirzaaulia.footballclips.app-jetified-activity-ktx-1.5.1-43 C:\Users\user\.gradle\caches\transforms-3\c606a5e092ac59d2aacf67371a5ebcd0\transformed\jetified-activity-ktx-1.5.1\res
+com.dirzaaulia.footballclips.app-navigation-runtime-ktx-2.5.1-44 C:\Users\user\.gradle\caches\transforms-3\c91c62cb8a367af30fbb16c2ae9b1b03\transformed\navigation-runtime-ktx-2.5.1\res
+com.dirzaaulia.footballclips.app-paging-runtime-3.1.1-45 C:\Users\user\.gradle\caches\transforms-3\d12c80b29b6b7e2271f4bef044152a86\transformed\paging-runtime-3.1.1\res
+com.dirzaaulia.footballclips.app-navigation-common-2.5.1-46 C:\Users\user\.gradle\caches\transforms-3\d4eaf32e2afb43b2941f6a3392393b16\transformed\navigation-common-2.5.1\res
+com.dirzaaulia.footballclips.app-jetified-room-ktx-2.3.0-47 C:\Users\user\.gradle\caches\transforms-3\dbd02656e7304df2e4c427f17ce65951\transformed\jetified-room-ktx-2.3.0\res
+com.dirzaaulia.footballclips.app-jetified-insetter-0.6.1-48 C:\Users\user\.gradle\caches\transforms-3\dc35835c8b7d7669a286c0987772c97d\transformed\jetified-insetter-0.6.1\res
+com.dirzaaulia.footballclips.app-transition-1.4.1-49 C:\Users\user\.gradle\caches\transforms-3\ec3930c247fe965cb7f43ad7180973e1\transformed\transition-1.4.1\res
+com.dirzaaulia.footballclips.app-core-1.8.0-50 C:\Users\user\.gradle\caches\transforms-3\edbff16297048371621dc4cfd134b9bc\transformed\core-1.8.0\res
+com.dirzaaulia.footballclips.app-jetified-viewpager2-1.0.0-51 C:\Users\user\.gradle\caches\transforms-3\ee6b4bab88b333178bad2a5e59937cf3\transformed\jetified-viewpager2-1.0.0\res
+com.dirzaaulia.footballclips.app-jetified-emoji2-1.2.0-52 C:\Users\user\.gradle\caches\transforms-3\f009680aacca1b3ca0b5df0218e3325c\transformed\jetified-emoji2-1.2.0\res
+com.dirzaaulia.footballclips.app-jetified-lifecycle-process-2.4.1-53 C:\Users\user\.gradle\caches\transforms-3\fee1b69a670eb07822a0bcbbbdba8d7f\transformed\jetified-lifecycle-process-2.4.1\res

@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/drawable_ic_baseline_broken_image_24.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/drawable/ic_baseline_broken_image_24.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/menu_main_menu.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/drawable_ic_baseline_video_library_24.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/drawable/ic_baseline_video_library_24.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/drawable_ic_baseline_live_tv_24.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/drawable/ic_baseline_live_tv_24.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/drawable_ic_monochrome.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/drawable/ic_monochrome.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/layout_view_toolbar.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/layout/view_toolbar.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/drawable_ic_baseline_arrow_upward_24.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/drawable/ic_baseline_arrow_upward_24.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/layout_fragment_viewer.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/layout/fragment_viewer.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/layout_fragment_home.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/layout_activity_main.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/layout_shimmer_item_clips.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/layout/shimmer_item_clips.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/layout_item_clips.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/layout/item_clips.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/drawable_ic_splash_screen.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/drawable/ic_splash_screen.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/drawable_ic_baseline_sports_soccer_24.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/drawable/ic_baseline_sports_soccer_24.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/navigation_nav_graph.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/menu_toolbar_menu.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/menu/toolbar_menu.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/drawable_ic_baseline_info_24.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/drawable/ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/layout_view_common_error.xml.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/layout/view_common_error.xml"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.dirzaaulia.footballclips.app-merged_res-3:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.dirzaaulia.footballclips.app-main-5:/mipmap-mdpi/ic_launcher.png"
+    }
+]
